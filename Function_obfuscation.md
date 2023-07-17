@@ -20,4 +20,22 @@ Hit me!
 ```
 Output:
 
+![VIrtualProtect](output.png)
+
+
+
 ## Evidences:
+
+Dumpbin before obfuscation:
+
+![VIrtualProtect](virtual_protect_obfuscation.png)
+
+Dumpbin after obfuscation:
+
+![VIrtualProtect](obfuscation_funct_virtualProtect.png)
+
+Looking for string inside of binary:
+
+![VIrtualProtect](virtualprotect_obfuscation.png)
+
+
