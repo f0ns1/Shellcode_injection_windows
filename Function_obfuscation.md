@@ -4,8 +4,8 @@ Index of content:
 
   1.  [Source code:](implant_function_obfuscation.cpp)
   2.  [Cipher xor ALG:](xorencrypt.py)
-  3.  Execution:(#execution)
-  4.  Evidences:(#evidences)
+  3.  [Execution](#execution)
+  4.  [Evidences](#evidences)
 
 ## Execution:
 
